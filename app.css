@@ -13,6 +13,11 @@ h2{
 ul{
     padding:10px;
 }
+#fishy{
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+}
 li{
     display:inline;
     padding: 0px 10px 0px 10px;
